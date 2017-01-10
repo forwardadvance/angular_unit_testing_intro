@@ -6,11 +6,12 @@ In this course, you'll learn all about unit testing in Angular. Specifically, yo
 * BDD vs TDD
 * Unit testing controllers, services, factories and filters
 * ngMocks
-* Running tests with Karma.
-* Running tests with Webpack (If you've only ever used Karma, you'll like this one).
+* Running tests with Karma
+* Running tests with Webpack (If you've only ever used Karma, you'll like this one)
 * Mocks, Spies and Stubs and when to use them
 * Testing AJAX
-* Route Testing
+* Testing Views, directives and components
+* Testing Routes
 
 I have a low tolerance of magic, so you'll find none here. Code is code, and we treat it as such. We'll introduce topics one by one, and practice with them until you're happy.
 
